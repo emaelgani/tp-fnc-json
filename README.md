@@ -1,6 +1,6 @@
 # Parser CYK para Validación de Sintaxis JSON en PostgreSQL
 
-Este proyecto implementa el algoritmo Cocke-Younger-Kasami (CYK) en un motor de base de datos relacional (PostgreSQL) mediante rutinas almacenadas en PL/pgSQL. El objetivo principal es verificar la pertenencia de cadenas de texto al lenguaje generado por una Gramática Libre de Contexto (GLC) representativa de estructuras JSON, sin recurrir a bibliotecas externas ni analizadores léxicos preconstruidos.
+Este proyecto implementa el algoritmo Cocke-Younger-Kasami (CYK) en un motor de base de datos relacional (PostgreSQL) mediante rutinas almacenadas en PL/pgSQL. El objetivo principal es verificar la pertenencia de cadenas de texto al lenguaje generado por una Gramática Libre de Contexto (GLC) representativa de estructuras JSON.
 
 ---
 
